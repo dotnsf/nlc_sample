@@ -7,6 +7,7 @@ IBM Bluemix から提供されているコグニティブエンジン Watson API
 こちらを参照ください：
 
 http://dotnsf.blog.jp/archives/1041438999.html
+
 http://dotnsf.blog.jp/archives/1041476039.html
 
 - K.Kimura ( dotnsf@gmail.com ), all rights reserved.
